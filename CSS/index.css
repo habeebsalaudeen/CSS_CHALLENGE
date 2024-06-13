@@ -1,0 +1,156 @@
+body {
+    text-align: center;
+}
+
+.container {
+    background-color: violet;
+    border-radius: 50px;
+    width: 350px;
+    height: 400px;
+    margin: 150px 330px 10px;
+    line-height: 1.5;
+    background-image: linear-gradient(to bottom, rgba(166, 115, 227, 0), rgb(33, 15, 225));
+    position: relative;
+}
+
+.result {
+    color: white;
+    padding-top: 30px;
+}
+
+.circle {
+    width: 50%;
+    height: 40%;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-color: blue;
+    position: relative;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    top: -2px;
+    left: 60px;
+}
+
+#stay {
+    position: absolute;
+    top: 80px;
+    left: 65px;
+    color: rgb(181, 170, 190);
+}
+
+h3 {
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 10px;
+}
+
+#bottom {
+    width: 75%;
+    margin: 0 auto;
+    color: white;
+}
+
+/*  SECOND SHAPE CSS TO STYLE WATCH OUT THEN */
+
+.sideway {
+    background-color: blanchedalmond;
+    border-radius: 50px;
+    width: 350px;
+    height: 400px;
+    margin: -410px 640px 105px;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    padding: 40px 40px 40px;
+}
+
+tbody {
+    background-color: aqua;
+}
+
+
+th {
+    padding-bottom: 20px;
+    padding-right: 140px;
+    font-size: larger;
+    color: #050594;
+    font-weight: bolder;
+    position: relative;
+    top: -10px;
+}
+
+.group {
+    border-radius: 20px;
+    border-width: 60px;
+    padding-left: -10px;
+    position: relative;
+    left: 20px;
+    border: 1px solid brown;
+    border-bottom: 0;
+    border-top:0;
+}
+
+.group-1 {
+    position: relative;
+    top: -20px;
+    color: red;
+}
+
+
+.group-2 {
+    position: relative;
+    top: -10px;
+    color: gold;
+}
+
+.group-3 {
+    color: #eaf6f6;
+}
+
+.group-4 {
+    position: relative;
+    bottom: -10px;
+    color: blue;
+}
+
+span {
+    padding-left: 70px;
+}
+
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 64;
+    -moz-border-radius: 64;
+    border-radius: 64px;
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+    background: rgb(6, 6, 165);
+    padding: 10px 40px 10px 40px;
+    text-decoration: none;
+    position: relative;
+    bottom: -20px;
+    left: 15px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #9bf039);
+    background-image: -moz-linear-gradient(top, #30e3cb, #9bf039);
+    background-image: -ms-linear-gradient(top, #30e3cb, #9bf039);
+    background-image: -o-linear-gradient(top, #30e3cb, #9bf039);
+    background-image: linear-gradient(to bottom, #30e3cb, #9bf039);
+    text-decoration: none;
+  }
+
